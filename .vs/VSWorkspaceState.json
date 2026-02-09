@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodoListManager",
+    "\\TodoListManager\\Managers",
+    "\\TodoListManager\\Models",
+    "\\TodoListManager\\Services",
+    "\\TodoListManager\\UI"
+  ],
+  "SelectedNode": "\\TodoListManager\\Managers\\TodoManager.cs",
+  "PreviewInSolutionExplorer": false
+}

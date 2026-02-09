@@ -1,0 +1,14 @@
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\bin\Debug\net10.0\TodoListManager.exe
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\bin\Debug\net10.0\TodoListManager.deps.json
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\bin\Debug\net10.0\TodoListManager.runtimeconfig.json
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\bin\Debug\net10.0\TodoListManager.dll
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\bin\Debug\net10.0\TodoListManager.pdb
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\TodoListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\TodoListManager.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\TodoListManager.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\TodoListManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\TodoListManager.dll
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\refint\TodoListManager.dll
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\TodoListManager.pdb
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\TodoListManager.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\TodoListManager\TodoListManager\obj\Debug\net10.0\ref\TodoListManager.dll
